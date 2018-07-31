@@ -7,3 +7,6 @@ Built an application that mimics playing a drum with through key presses. Emphas
 
 ## 02 - JSS and CSS Clock
 Clock application that ticks the second, minute, and hour hand. Emphasis was placed on using timed intervals, transitions, and transforms to modify css. These make the clock hands appear to tick.
+
+## 03 - CSS Variables
+Learn to manipulate CSS variables with javascript selectors.
