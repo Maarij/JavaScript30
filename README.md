@@ -10,3 +10,9 @@ Clock application that ticks the second, minute, and hour hand. Emphasis was pla
 
 ## 03 - CSS Variables
 Learn to manipulate CSS variables with javascript selectors.
+
+## 04 - Array Cardio Day 1
+
+
+## 05 - Flex Panel Gallery
+Manipulating flexbox properties with javascript to create a flex gallery.
