@@ -12,6 +12,7 @@ Clock application that ticks the second, minute, and hour hand. Emphasis was pla
 Learn to manipulate CSS variables with javascript selectors.
 
 ## 04 - Array Cardio Day 1
+Practice using filter, map, reduce, & sort to get more comfortable with arrays.
 
 
 ## 05 - Flex Panel Gallery
