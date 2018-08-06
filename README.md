@@ -17,3 +17,6 @@ Practice using filter, map, reduce, & sort to get more comfortable with arrays.
 
 ## 05 - Flex Panel Gallery
 Manipulating flexbox properties with javascript to create a flex gallery.
+
+## 06 - Type Ahead
+Implement a city, state type ahead and highlight matched characters.
