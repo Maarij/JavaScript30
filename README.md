@@ -20,3 +20,6 @@ Manipulating flexbox properties with javascript to create a flex gallery.
 
 ## 06 - Type Ahead
 Implement a city, state type ahead and highlight matched characters.
+
+## 07 - Array Cardio Day 2
+Practice using some, every, cind, findIndex with arrays.
