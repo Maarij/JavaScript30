@@ -26,3 +26,6 @@ Practice using some, every, cind, findIndex with arrays.
 
 ## 08 - Fun with HTML5 Canvas
 Play around with the canvas element to draw lines.
+
+## 09 - Dev Tools Domination
+Go over some console & dom attribute change tricks for debugging.
