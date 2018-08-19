@@ -23,3 +23,6 @@ Implement a city, state type ahead and highlight matched characters.
 
 ## 07 - Array Cardio Day 2
 Practice using some, every, cind, findIndex with arrays.
+
+## 08 - Fun with HTML5 Canvas
+Play around with the canvas element to draw lines.
